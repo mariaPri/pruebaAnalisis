@@ -17,3 +17,6 @@ private int resta (int numero1, int numero2){
 private double dividir (int number1, int number2){
   return number1/number2;
 }
+
+
+prueba
